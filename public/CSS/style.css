@@ -1,0 +1,18 @@
+.nav-wrapper {
+    background-color:#79683c;
+}
+
+a#save {
+    margin-left: 10px;
+}
+
+.card-action a {
+    color: rgb(68, 42, 42);
+}
+body {
+    background-image: url("../images/nightstar.jpg");
+}
+
+.delete-button {
+    margin-left: 10px;
+}
